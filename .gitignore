@@ -1,0 +1,29 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDEs e sistema
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.user
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Credenciais e dados locais
+.env
+.env.*
+*.key
+*.pem
+local-data/
